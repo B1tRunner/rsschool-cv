@@ -13,7 +13,7 @@ Education
 
 Experience
 ----------
-Been a Marketing specialist in sales company
+Been a Marketing specialist in sales company for 3 years
 
 Technical Experience
 --------------------
