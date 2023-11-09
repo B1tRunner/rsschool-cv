@@ -1,9 +1,19 @@
-Dmitry Vadiutin
-============
+# Dmitry Vadiutin
+
+## Contact information
+
+You can reach me via:
 
 -------------------     ----------------------------
-Telegram: @F1oreo                 dmitryvadiutin@gmail.com
+Telegram: @F1oreo       
+Email:  dmitryvadiutin@gmail.com
 -------------------     ----------------------------
+
+## About myself
+```
+I enjoy learning something new every day and i believe that IT sphere is everchanging
+which will allow me to satisfy my needs while contributing for something great and complex
+```
 
 Education
 ---------
@@ -13,7 +23,7 @@ Education
 
 Experience
 ----------
-Been a Marketing specialist in sales company for 3 years
+I've been a Marketing specialist in sales company for 3 years
 
 Technical Experience
 --------------------
