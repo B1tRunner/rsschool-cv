@@ -14,6 +14,7 @@
 * networking
 * negotiations
 <!-- code examples from codewars using symbols and tags add link to this cv-->
+# Code example
 ``` javascript
     function squareDigits(num){
   let result = num
@@ -26,6 +27,9 @@
   return parseInt(result)
 }
 ```
+# Projects
+* CV - https://B1tRunner.github.io/rsschool-cv/cv
+
 <!-- work experience -->
 * Sales manager
 * Marketing specialist
