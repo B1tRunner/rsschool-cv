@@ -28,14 +28,13 @@
     </ul>
     <h2>Code example</h2>
     <pre>
-            function squareDigits(num){
-                let result = num
-                  .toString()
-                  .split("")
-                  .map( num =&gt; parseInt(num) )
-                  .map( num =&gt; num * num )
-                  .join("")
-                 
+        function squareDigits(num){
+            let result = num
+                .toString()
+                .split("")
+                .map( num =&gt; parseInt(num) )
+                .map( num =&gt; num * num )
+                .join("")
                 return parseInt(result)
               }
     </pre>
